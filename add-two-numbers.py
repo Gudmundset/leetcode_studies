@@ -1,3 +1,8 @@
+"""
+I knew absolutely nothing about Linked List implementations in Python going in to this question.
+I'm satisfied I could answer this in an interview, without having used google to solve.
+"""
+
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, val=0, next=None):
